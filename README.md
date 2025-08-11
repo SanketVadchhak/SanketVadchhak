@@ -163,8 +163,8 @@
 💻 Frontend Development &nbsp; ██████████░░░░░░░░░░ &nbsp; 30% <br>
 🧮 Algorithm Practice &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ████░░░░░░░░░░░░░░░░ &nbsp; 15% <br>
 📚 Learning New Tech &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ████████░░░░░░░░░░░░ &nbsp; 20% <br>
-🛠️ Project Building &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █████████░░░░░░░░░░ &nbsp; 25% <br>
-📖 Reading Docs &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███░░░░░░░░░░░░░░░░ &nbsp; 10% <br>
+🛠️ Project Building &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █████████░░░░░░░░░░░░ &nbsp; 25% <br>
+📖 Reading Docs &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███░░░░░░░░░░░░░░░░░░ &nbsp; 10% <br>
 
 </div>
 
