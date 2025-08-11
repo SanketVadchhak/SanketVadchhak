@@ -69,10 +69,22 @@
 <div align="center">
 
 ### ⏰ Coding Activity  
+🌅 Morning ████████░░░░░░░░░░░░░ 35%
+🌆 Daytime ██████████████░░░░░░░ 60%
+🌃 Evening ████░░░░░░░░░░░░░░░░░ 18%
+🌙 Night ██░░░░░░░░░░░░░░░░░░░ 08%
 
 ### 🎨 Languages I Code In  
+JavaScript ████████████░░░░░ 60%
+HTML/CSS ███████░░░░░░░░░░░ 35%
+Python ████░░░░░░░░░░░░░░ 20%
+C/C++ ███░░░░░░░░░░░░░░░ 15%
 
 ### 🎯 Learning Focus Areas  
+React.js ████████████████░ 80%
+Python ██████████████░░░ 70%
+DSA █████████░░░░░░░░ 45%
+OOP ███████░░░░░░░░░░ 35%
 
 </div>
 
@@ -137,15 +149,17 @@ Code Quality
 
 </div>
 
+
 <br>
 
 ## 🎨 GitHub Activity
 
 <div align="center">
 
-![Snake animation](https://github.com/SanketVadchhak/SanketVadchhak/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/SanketVadchhak/SanketVadchhak/output/github-contribution-grid-snake.svg)
 
 </div>
+
 
 <br>
 
@@ -257,10 +271,4 @@ Code Quality
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />  
 **Thanks for visiting my profile! Feel free to explore my repositories and star ⭐ the ones you like!**
 
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+🚀;Let's+build+something+together!;Always+learning+%26+growing!)](https://git.io/typing-svg)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SanketVadchhak&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
