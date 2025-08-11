@@ -152,21 +152,14 @@ Code Quality
 
 <br>
 
-## 🎨 GitHub Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SanketVadchhak/SanketVadchhak/main/github-contribution-grid-snake.svg)
-
-</div>
-
-
-<br>
-
 ## 📊 Weekly Development Breakdown
 
 <div align="center">
-
+💻 Frontend Development ██████████░░░░░░░░░░ 30% <br>
+🧮 Algorithm Practice ████░░░░░░░░░░░░░░░░ 15% <br>
+📚 Learning New Tech ████████░░░░░░░░░░░░ 20% <br>
+🛠️ Project Building █████████░░░░░░░░░░ 25% <br>
+📖 Reading Docs ███░░░░░░░░░░░░░░░░░ 10% <br>
 
 </div>
 
@@ -202,8 +195,6 @@ Code Quality
 ### 🎧 Coding Playlist  
 *Currently listening to lo-fi beats while coding...*
 
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
-
 <br><br>
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" />
 
@@ -211,40 +202,59 @@ Code Quality
 
 <br>
 
-## 📈 Goals for 2025
+## 🎯 Goals for 2025
 
 <div align="center">
 
 <table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="40" height="40" />
-<br>
-**Master React.js**  
-<small>5+ complex projects</small>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Python" width="40" height="40" />
-<br>
-**Learn Python**  
-<small>2 major projects</small>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Growth" width="40" height="40" />
-<br>
-**DSA Mastery**  
-<small>500+ problems</small>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="40" height="40" />
-<br>
-**Land First Job**  
-<small>Frontend Developer role</small>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/fluency/48/000000/target.png" alt="Target"/><br/>
+      <strong>Master React.js</strong><br/>
+      <span>🔹 Build 5+ complex projects</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python"/><br/>
+      <strong>Learn Python</strong><br/>
+      <span>🔹 Complete 2 major projects</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/fluency/48/000000/algorithm.png" alt="DSA"/><br/>
+      <strong>DSA Mastery</strong><br/>
+      <span>🔹 Solve 500+ problems</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/fluency/48/000000/briefcase.png" alt="Job"/><br/>
+      <strong>Land First Job</strong><br/>
+      <span>🔹 Frontend Developer role</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Open Source"/><br/>
+      <strong>Contribute OSS</strong><br/>
+      <span>🔹 10 meaningful PRs</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/fluency/48/000000/chart-up.png" alt="Performance"/><br/>
+      <strong>Improve Performance</strong><br/>
+      <span>🔹 Optimize 3 projects</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/fluency/48/000000/mentor.png" alt="Mentor"/><br/>
+      <strong>Mentor Peers</strong><br/>
+      <span>🔹 Guide 5 developers</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/fluency/48/000000/book.png" alt="Learning"/><br/>
+      <strong>Read Tech Books</strong><br/>
+      <span>🔹 6 books this year</span>
+    </td>
+  </tr>
 </table>
 
 </div>
+
 
 <br>
 
