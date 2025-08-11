@@ -16,6 +16,7 @@
 - 💡 Love solving coding challenges and implementing **OOP concepts**
 - 📚 Computer Science enthusiast with strong foundation in **C** and **C++**
 - 🔍 Always exploring new frameworks and best practices
+- ⚡ Fun fact: I debug with console.log() more than I'd like to admit!
 
 <br>
 
@@ -23,25 +24,25 @@
 
 <div align="center">
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 💻 Programming Languages  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### 🎨 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 
-### 📊 Core Concepts
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white)
+### 📊 Core Concepts  
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white)  
 
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Tools & Technologies  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 </div>
 
@@ -51,12 +52,13 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🍕 **OmniFood** | Responsive food delivery website | HTML5, CSS3, JavaScript |
-| 📚 **Book Store** | Digital book management system | HTML, CSS, JavaScript |
-| 🎮 **Snake Game** | Classic snake game implementation | JavaScript |
-| 💻 **Portfolio Projects** | Collection of frontend components | HTML, CSS, JavaScript |
+| 🎯 Project           | 📝 Description                                        | 💻 Tech Stack                        | 🔗 Link                                              |
+|----------------------|-------------------------------------------------------|--------------------------------------|------------------------------------------------------|
+| 🍕 OmniFood          | Responsive food delivery website with modern UI       | HTML5, CSS3, JavaScript              | [Repo](https://github.com/SanketVadchhak/OmniFood)    |
+| 📚 Book Store         | Digital book management system with search features   | HTML, CSS, JavaScript                | [Repo](https://github.com/SanketVadchhak/Book-store)  |
+| 🎮 Snake Game         | Classic snake game implementation with score tracking | JavaScript                           | [Repo](https://github.com/SanketVadchhak/snake-game)  |
+| 🎲 Rock Paper Scissors| Interactive game with user-friendly interface        | HTML, CSS, JavaScript                | [Repo](https://github.com/SanketVadchhak/R.P.S.)      |
+| 💻 Components         | Reusable UI components and layouts                   | HTML, CSS                            | [Repo](https://github.com/SanketVadchhak/Components)  |
 
 </div>
 
@@ -66,6 +68,11 @@
 
 <div align="center">
 
+### ⏰ Coding Activity  
+
+### 🎨 Languages I Code In  
+
+### 🎯 Learning Focus Areas  
 
 </div>
 
@@ -75,56 +82,185 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=600&lines=🔥+Mastering+React.js+Components;🐍+Exploring+Python+Automation;📐+Solving+DSA+Problems+Daily;🎨+Building+Responsive+UIs;🚀+Learning+Modern+Web+Frameworks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=700&lines=🔥+Mastering+React.js+Components+and+Hooks;🐍+Exploring+Python+Automation+%26+Data+Science;📐+Solving+DSA+Problems+Daily+on+LeetCode;🎨+Building+Responsive+UIs;🚀+Learning+Modern+Web+Frameworks;💡+Contributing+to+Open+Source)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
-## 💫 Fun Facts
+## 💡 What I'm Up To
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> **I debug with console.log() more than I'd like to admit**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Coffee.png" alt="Coffee" width="25" height="25" /> **Coffee is my coding fuel**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> **I love turning ideas into interactive web experiences**
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="50" height="50" />
+<br>
+<strong>Learning</strong>
+<br>
+Advanced React Patterns  
+Python Data Structures
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
+<br>
+<strong>Building</strong>
+<br>
+Personal Portfolio  
+React Todo App
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="50" height="50" />
+<br>
+<strong>Improving</strong>
+<br>
+Algorithm Skills  
+Code Quality
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-## 🤝 Let's Connect!
+## 💫 Fun Facts & Interests
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> **I debug with console.log() more than I'd like to admit**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Coffee.png" alt="Coffee" width="25" height="25" /> **Coffee is my coding fuel**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> **Turning ideas into interactive web experiences**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" alt="Puzzle" width="25" height="25" /> **Every bug is a puzzle**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> **Always excited about new technologies**
 
 </div>
 
 <br>
 
+## 🎨 GitHub Activity
+
 <div align="center">
 
-### 🎵 Coding Playlist
+![Snake animation](https://github.com/SanketVadchhak/SanketVadchhak/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br>
+
+## 📊 Weekly Development Breakdown
+
+<div align="center">
+
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+**I'm always interested in:**  
+- 💼 Freelance frontend development  
+- 🚀 Collaborative React.js projects  
+- 🌐 Open source contributions  
+- 💡 Mentoring other developers  
+- 🎯 Code reviews and feedback
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketvadchhak@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-vadchhak)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sanketvadchhak)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sanketvadchhak.netlify.app)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sanket.vadchhak)
+
+</div>
+
+<br>
+
+## 🎵 Current Mood
+
+<div align="center">
+
+### 🎧 Coding Playlist  
 *Currently listening to lo-fi beats while coding...*
 
+<img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+
+<br><br>
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" />
-
----
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> **Thanks for visiting my profile! Feel free to explore my repositories and don't forget to star ⭐ the ones you like!**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+🚀;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
 </div>
 
----
+<br>
+
+## 📈 Goals for 2025
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanketVadchhak&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="40" height="40" />
+<br>
+**Master React.js**  
+<small>5+ complex projects</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Python" width="40" height="40" />
+<br>
+**Learn Python**  
+<small>2 major projects</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Growth" width="40" height="40" />
+<br>
+**DSA Mastery**  
+<small>500+ problems</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="40" height="40" />
+<br>
+**Land First Job**  
+<small>Frontend Developer role</small>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## 💻 Code Philosophy
+
+<div align="center">
+
+> **"Clean code always looks like it was written by someone who cares."**  
+> *— Robert C. Martin*
+
+<br>
+
+**My Development Principles:**  
+- 🧹 Clean, readable, and maintainable code  
+- 🚀 Performance and user experience first  
+- 🔄 Continuous learning and improvement  
+- 🤝 Collaboration and knowledge sharing  
+
+</div>
+
+<br>
+---
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />  
+**Thanks for visiting my profile! Feel free to explore my repositories and star ⭐ the ones you like!**
+
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+🚀;Let's+build+something+together!;Always+learning+%26+growing!)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SanketVadchhak&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
