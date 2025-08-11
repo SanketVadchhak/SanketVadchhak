@@ -141,37 +141,14 @@ Code Quality
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/fluency/48/000000/console.png" alt="Console"/><br/>
-      **Debug Addict**<br/>
-      I debug with `console.log()` more than I'd like to admit
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/fluency/48/000000/coffee-to-go.png" alt="Coffee"/><br/>
-      **Coffee Fuel**<br/>
-      Coffee is my coding fuel ☕
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/fluency/48/000000/light-on.png" alt="Ideas"/><br/>
-      **Idea Machine**<br/>
-      Turning ideas into interactive web experiences
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/fluency/48/000000/puzzle.png" alt="Puzzle"/><br/>
-      **Puzzle Solver**<br/>
-      Every bug is just a puzzle
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/fluency/48/000000/rocket.png" alt="Rocket"/><br/>
-      **Tech Explorer**<br/>
-      Always excited about new technologies
-    </td>
-  </tr>
-</table>
+- <img src="https://img.icons8.com/fluency/24/000000/console.png" alt="Console"/> **Debug Addict**: I sprinkle `console.log()` statements like confetti to catch every bug.  
+- <img src="https://img.icons8.com/fluency/24/000000/coffee-to-go.png" alt="Coffee"/> **Coffee Fuel**: My code runs on ☕—no brew, no breakthrough.  
+- <img src="https://img.icons8.com/fluency/24/000000/light-on.png" alt="Ideas"/> **Idea Machine**: I thrive on turning bright ideas into interactive web experiences.  
+- <img src="https://img.icons8.com/fluency/24/000000/puzzle.png" alt="Puzzle"/> **Puzzle Solver**: Every bug is a challenge waiting to be cracked.  
+- <img src="https://img.icons8.com/fluency/24/000000/rocket.png" alt="Rocket"/> **Tech Explorer**: I’m always launching into new technologies and frameworks.  
 
 </div>
+
 
 
 
