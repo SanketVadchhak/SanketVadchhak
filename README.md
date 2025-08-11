@@ -95,9 +95,10 @@ OOP ███████░░░░░░░░░░ 35% <br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=700&lines=🔥+Mastering+React.js+Components+and+Hooks;🐍+Exploring+Python+Automation+%26+Data+Science;📐+Solving+DSA+Problems+Daily+on+LeetCode;🎨+Building+Responsive+UIs;🚀+Learning+Modern+Web+Frameworks;💡+Contributing+to+Open+Source)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=700&height=80&padding=10&lines=🔥+Mastering+React.js+Components+and+Hooks;🐍+Exploring+Python+Automation+%26+Data+Science;📐+Solving+DSA+Problems+Daily+on+LeetCode;🎨+Building+Responsive+UIs;🚀+Learning+Modern+Web+Frameworks;💡+Contributing+to+Open+Source)
 
 </div>
+
 
 <br>
 
