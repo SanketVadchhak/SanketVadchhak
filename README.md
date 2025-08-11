@@ -26,56 +26,24 @@
 <div align="center">
 
 ### 💻 Programming Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
-       alt="C"
-       style="pointer-events: none; margin: 4px;" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-       alt="C++"
-       style="pointer-events: none; margin: 4px;" />
-  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"
-       alt="Python"
-       style="pointer-events: none; margin: 4px;" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-       alt="JavaScript"
-       style="pointer-events: none; margin: 4px;" />
-</p>
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
 ### 🎨 Frontend Development  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-       alt="HTML5"
-       style="pointer-events: none; margin: 4px;" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-       alt="CSS3"
-       style="pointer-events: none; margin: 4px;" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-       alt="React"
-       style="pointer-events: none; margin: 4px;" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 
 ### 📊 Core Concepts  
-<p align="center">
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-FF6B6B.svg?style=for-the-badge&logo=cplusplus&logoColor=white"
-       alt="OOP"
-       style="pointer-events: none; margin: 4px;" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4ECDC4.svg?style=for-the-badge&logo=leetcode&logoColor=white"
-       alt="DSA"
-       style="pointer-events: none; margin: 4px;" />
-</p>
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white)  
 
 ### 🔧 Tools & Technologies  
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-       alt="Git"
-       style="pointer-events: none; margin: 4px;" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-       alt="GitHub"
-       style="pointer-events: none; margin: 4px;" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-       alt="VS Code"
-       style="pointer-events: none; margin: 4px;" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
  
 
 </div>
