@@ -105,32 +105,32 @@ OOP ███████░░░░░░░░░░ 35% <br>
 <div align="center">
 
 <table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="50" height="50" />
-<br>
-<strong>Learning</strong>
-<br>
-Advanced React Patterns  
-Python Data Structures
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
-<br>
-<strong>Building</strong>
-<br>
-Personal Portfolio  
-React Todo App
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="50" height="50" />
-<br>
-<strong>Improving</strong>
-<br>
-Algorithm Skills  
-Code Quality
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="50" height="50" />
+      <br>
+      <strong>Learning</strong>
+      <br>
+      Advanced React Patterns  
+      Python Data Structures
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
+      <br>
+      <strong>Building</strong>
+      <br>
+      Personal Portfolio  
+      React Todo App
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="50" height="50" />
+      <br>
+      <strong>Improving</strong>
+      <br>
+      Algorithm Skills  
+      Code Quality
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -148,9 +148,6 @@ Code Quality
 - <img src="https://img.icons8.com/fluency/24/000000/rocket.png" alt="Rocket"/> **Tech Explorer**: I’m always launching into new technologies and frameworks.  
 
 </div>
-
-
-
 
 <br>
 
@@ -235,7 +232,6 @@ Code Quality
 </table>
 
 </div>
-
 
 <br>
 
