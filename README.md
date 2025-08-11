@@ -137,17 +137,42 @@ Code Quality
 
 <br>
 
-## 💫 Fun Facts & Interests
+## 🎉 Fun Facts & Interests
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> **I debug with console.log() more than I'd like to admit**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Coffee.png" alt="Coffee" width="25" height="25" /> **Coffee is my coding fuel**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> **Turning ideas into interactive web experiences**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" alt="Puzzle" width="25" height="25" /> **Every bug is a puzzle**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> **Always excited about new technologies**
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/48/000000/console.png" alt="Console"/><br/>
+      **Debug Addict**<br/>
+      I debug with `console.log()` more than I'd like to admit
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/48/000000/coffee-to-go.png" alt="Coffee"/><br/>
+      **Coffee Fuel**<br/>
+      Coffee is my coding fuel ☕
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/48/000000/light-on.png" alt="Ideas"/><br/>
+      **Idea Machine**<br/>
+      Turning ideas into interactive web experiences
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/48/000000/puzzle.png" alt="Puzzle"/><br/>
+      **Puzzle Solver**<br/>
+      Every bug is just a puzzle
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/48/000000/rocket.png" alt="Rocket"/><br/>
+      **Tech Explorer**<br/>
+      Always excited about new technologies
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 
 <br>
@@ -219,7 +244,7 @@ Code Quality
       <span>🔹 Complete 2 major projects</span>
     </td>
     <td align="center" width="150">
-      <img src="https://img.icons8.com/fluency/48/000000/algorithm.png" alt="DSA"/><br/>
+      <img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Open Source"/><br/>
       <strong>DSA Mastery</strong><br/>
       <span>🔹 Solve 500+ problems</span>
     </td>
@@ -229,28 +254,7 @@ Code Quality
       <span>🔹 Frontend Developer role</span>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Open Source"/><br/>
-      <strong>Contribute OSS</strong><br/>
-      <span>🔹 10 meaningful PRs</span>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/fluency/48/000000/chart-up.png" alt="Performance"/><br/>
-      <strong>Improve Performance</strong><br/>
-      <span>🔹 Optimize 3 projects</span>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/fluency/48/000000/mentor.png" alt="Mentor"/><br/>
-      <strong>Mentor Peers</strong><br/>
-      <span>🔹 Guide 5 developers</span>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/fluency/48/000000/book.png" alt="Learning"/><br/>
-      <strong>Read Tech Books</strong><br/>
-      <span>🔹 6 books this year</span>
-    </td>
-  </tr>
+  
 </table>
 
 </div>
